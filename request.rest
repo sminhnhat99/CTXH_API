@@ -1,0 +1,5 @@
+POST http://192.168.89.102:3000/api/KDV
+Content-Type: application/json
+{
+    "KDVId" : "16"
+}
